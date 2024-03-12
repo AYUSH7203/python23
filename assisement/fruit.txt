@@ -1,0 +1,1 @@
+{'Apple': {'quantity': 35, 'price': 250}, 'Mango': {'quantity': 8, 'price': 130}, 'Orange': {'quantity': 18, 'price': 180}, 'MANGO': {'quantity': 33, 'price': 234}}
